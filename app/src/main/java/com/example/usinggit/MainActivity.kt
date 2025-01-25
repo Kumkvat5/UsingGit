@@ -18,4 +18,5 @@ class MainActivity : AppCompatActivity() {
         }
         val hello="Hello git!"
     }
+    //connect firebase to the project
 }
